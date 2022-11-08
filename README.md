@@ -111,6 +111,8 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 ---
 
 ## Submission
+!['Account Balance'](Images/account-balance.png)
+!['Transaction Receipt'](Images/transaction-receipt.png)
 
 * Upload the files for this assignment to your GitHub repository.
 
